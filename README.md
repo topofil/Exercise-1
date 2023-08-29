@@ -6,9 +6,9 @@ This week we will practice how to create geometric objects using
 In this exercise, you will also need to apply your skills from the [Geo-Python
 course](https://geo-python.github.io). In the first set of problems (1-2) you
 will define your own functions for handling geometric objects. In the second set
-of problems (3-4), you will read in data from a file using
-[pandas](https://pandas.pydata.org) and create
-geometries based on coordinate information in the input data. 
+of problems (3-4), you wil read in data from a file using
+[pandas](https://pandas.pydata.org) and create 
+geometrie based on coordinate information in the input data. 
 
 
 - **Exercise 1 is due by Tuesday, 8 November 2022, 3 pm**.
